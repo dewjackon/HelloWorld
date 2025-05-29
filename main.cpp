@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    cout<<"hello world"<<endl;
+    //xiugai
     cout<<"hello word"<<endl;
     return 0;
 }
